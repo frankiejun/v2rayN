@@ -63,8 +63,8 @@ Release files are signed with GPG to verify authenticity and integrity, helping 
 ### Fingerprint / 公钥指纹
 
 ```text
-7694 5E9F 3E9A 168F 8070 F195 805D 661C
-134D FAF6 8903 C199 463C 31E5 AE90 3AE0
+0852 605C 9DF6 C3F3 5B99 57DA EEB8 E9BC
+AD26 2295
 ```
 
 ---
